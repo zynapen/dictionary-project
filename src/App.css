@@ -4,7 +4,14 @@
 }
 
 .App-logo {
-  max-width: 375px;
   display: block;
   margin: 0 auto;
+  max-width: 375px;
+}
+
+.App-footer {
+  bottom: 0px;
+  position:fixed;
+  text-align: center;
+  width: 100%;
 }
