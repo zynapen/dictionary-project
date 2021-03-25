@@ -1,5 +1,5 @@
 .App-header {
-  margin: 30px 0;
+  margin: 10px 0;
 }
 
 .App-logo {
@@ -11,4 +11,20 @@
 .App-footer {
   text-align: center;
   margin: 30px 0;
+}
+
+a:link {
+  color: green;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  color: #e4bad4;
+}
+
+a:active {
+  color: green;
 }
