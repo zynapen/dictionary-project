@@ -15,16 +15,21 @@
 
 a:link {
   color: #69b693;
+  text-decoration: none;
+  font-weight:bold;
 }
 
 a:visited {
   color: #69b693;
+  font-weight:bold;
 }
 
 a:hover {
-  color: #e4bad4;
+  color: #005745;
+  font-weight:bold;
 }
 
 a:active {
   color: #69b693;
+  font-weight:bold;
 }
