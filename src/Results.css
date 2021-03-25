@@ -1,3 +1,9 @@
-.Results {
-    color: #000000;
+.Results section {
+    background-color: #edffec;
+    border-style: solid;
+    border-color: #69b693;
+    border-radius: 10px;
+    box-shadow: 5px 5px #69b693;
+    margin: 15px 0;
+    padding: 10px 10px;
 }
