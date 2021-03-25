@@ -1,3 +1,8 @@
+.Results h2 {
+    color: #005745;
+    font-weight: bold;
+}
+
 .Results section {
     background-color: #edffec;
     border-style: solid;
