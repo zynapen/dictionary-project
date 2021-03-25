@@ -28,7 +28,7 @@ export default function Dictionary() {
         <div className="Dictionary">
             <section>
             <form onSubmit={search}>
-                <input type="search" onChange={handleKeywordChange} />
+                <input type="search" placeholder="Search" onChange={handleKeywordChange} />
             </form>
             <div className="hint">Suggested words: Advocate, Aesthetic, Agitate, Ambitious...</div>
             </section>
