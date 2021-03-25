@@ -1,5 +1,7 @@
 .Dictionary {
-    background-color: #730b0b;
+    background-color: #edffec;
+    border-style: solid;
+    border-color: #f6dfeb;
     border-radius: 10px;
     padding: 10px 10px;
 }
